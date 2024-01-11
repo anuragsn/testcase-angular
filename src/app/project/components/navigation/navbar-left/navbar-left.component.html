@@ -1,0 +1,10 @@
+<aside class="navbarLeft">
+    <div class="navbarLeft-content">
+        <div *ngFor="let item of items" class="item">
+            <div (click)="item.handler()" nz-tooltip [nzTooltipTitle]="item.tooltip" nzTooltipPlacement="right"
+                class="itemIcon">
+                <i class="text-xl text-white" nz-icon [nzType]="item.icon" nzTheme="outline"></i>
+            </div>
+        </div>
+    </div>
+</aside>

@@ -1,0 +1,288 @@
+{
+  "id": "140892",
+  "name": "Task manager",
+  "url": "",
+  "description": "manage UI",
+  "category": "Software",
+  "createdAt": "2024-01-10T16:00:00.000Z",
+  "updatedAt": "2024-01-10T16:00:00.000Z",
+  "users": [
+    {
+      "id": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "name": "ABC",
+      "avatarUrl": "",
+      "projectId": "140892"
+    },
+    {
+      "id": "7ac265f9-b9ac-443f-a2b2-795682e579a4",
+      "name": "Iron Man",
+      "avatarUrl": "https://res.cloudinary.com/dvujyxh7e/image/upload/c_scale,w_48/v1592405732/ironman_c3jrbc.jpg",
+      "projectId": "140892"
+    },
+    {
+      "id": "94502aad-c97f-43e1-a9d1-28cf3e4937a7",
+      "name": "Captain",
+      "avatarUrl": "https://res.cloudinary.com/dvujyxh7e/image/upload/c_scale,w_48/v1592405732/captain_e8s9nk.jpg",
+      "projectId": "140892"
+    },
+    {
+      "id": "610451aa-10c8-4d7e-9363-311357c0b0dd",
+      "name": "Thor",
+      "avatarUrl": "https://res.cloudinary.com/dvujyxh7e/image/upload/c_scale,w_48/v1592405731/thor_juqwzf.jpg",
+      "projectId": "140892"
+    },
+    {
+      "id": "081ccaa1-5595-4621-8074-ede4927e67b0",
+      "name": "Spider Man",
+      "avatarUrl": "https://res.cloudinary.com/dvujyxh7e/image/upload/c_scale,w_48/v1592405731/spiderman_zlrtx0.jpg",
+      "projectId": "140892"
+    }
+  ],
+  "issues": [
+    {
+      "createdAt": "2024-01-10T14:23:38.183Z",
+      "description": "KJEGT",
+      "id": "6527",
+      "priority": "Medium",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "status": "Done",
+      "title": "Behind the 900 stars - Update 01/2024",
+      "type": "Story",
+      "updatedAt": "2024-01-10T14:23:38.183Z",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1"
+      ],
+      "listPosition": 1
+    },
+    {
+      "type": "Story",
+      "priority": "High",
+      "title": "Login Page UI",
+      "description": "lekfnhbk",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1"
+      ],
+      "id": "73",
+      "status": "InProgress",
+      "createdAt": "2024-01-10T16:00:00.000Z",
+      "updatedAt": "2024-01-10T16:00:00.000Z",
+      "listPosition": 2
+    },
+    {
+      "type": "Story",
+      "priority": "Highest",
+      "title": "Angular Spotify ",
+      "description": "ef",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1"
+      ],
+      "id": "2021",
+      "status": "Backlog",
+      "createdAt": "2024-01-10T16:00:00.000Z",
+      "updatedAt": "2024-01-10T16:00:00.000Z",
+      "listPosition": 1
+    },
+    {
+      "type": "Story",
+      "priority": "Highest",
+      "title": "Merry Christmas",
+      "description": "",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1"
+      ],
+      "id": "2020",
+      "status": "Done",
+      "createdAt": "2024-01-10T16:00:00.000Z",
+      "updatedAt": "2024-01-10T16:00:00.000Z",
+      "listPosition": 1
+    },
+    {
+      "type": "Story",
+      "priority": "Highest",
+      "title": "Test Task",
+      "description": "",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1"
+      ],
+      "id": "3957",
+      "status": "Complete",
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "listPosition": 1
+    },
+    {
+      "id": "9013",
+      "title": "Set up project structure",
+      "description": "eoihf ",
+      "type": "Task",
+      "status": "Open",
+      "priority": "Highest",
+      "listPosition": 1,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+        "7ac265f9-b9ac-443f-a2b2-795682e579a4"
+      ]
+    },
+    {
+      "id": "9210",
+      "title": "TailwindCSS configuration",
+      "description": "",
+      "type": "Task",
+      "status": "Done",
+      "priority": "Medium",
+      "listPosition": 2,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+        "94502aad-c97f-43e1-a9d1-28cf3e4937a7"
+      ]
+    },
+    {
+      "id": "9361",
+      "title": "Try leaving a comment on this issue.",
+      "description": "elfh ",
+      "type": "Story",
+      "status": "InProgress",
+      "priority": "Lowest",
+      "listPosition": 3,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "081ccaa1-5595-4621-8074-ede4927e67b0"
+      ]
+    },
+    {
+      "id": "9451",
+      "title": "Preparing backend API with GraphQL - Update 08/2020",
+      "description": "sakjfbvaf",
+      "type": "Story",
+      "status": "InProgress",
+      "priority": "Medium",
+      "listPosition": 1,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1"
+      ]
+    },
+    {
+      "id": "9631",
+      "title": "Each issue has a single reporter but can have multiple assignees.",
+      "description": "ekjfh",
+      "type": "Task",
+      "status": "Selected",
+      "priority": "Low",
+      "listPosition": 2,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "610451aa-10c8-4d7e-9363-311357c0b0dd",
+        "94502aad-c97f-43e1-a9d1-28cf3e4937a7"
+      ]
+    },
+    {
+      "id": "9546",
+      "title": "Set up Akita state management",
+      "description": "sfsdaf",
+      "type": "Story",
+      "status": "Done",
+      "priority": "High",
+      "listPosition": 1,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1"
+      ]
+    },
+    {
+      "id": "9548",
+      "title": "Make the CDK Drag and Drop animation smoother",
+      "description": "sfsdaf",
+      "type": "Bug",
+      "status": "Done",
+      "priority": "High",
+      "listPosition": 1,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1"
+      ]
+    },
+    {
+      "id": "9584",
+      "title": "What is Task house application?",
+      "description": "sfsdaf",
+      "type": "Task",
+      "status": "Backlog",
+      "priority": "Medium",
+      "listPosition": 2,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "081ccaa1-5595-4621-8074-ede4927e67b0",
+        "610451aa-10c8-4d7e-9363-311357c0b0dd"
+      ]
+    },
+    {
+      "id": "9554",
+      "title": "Who is the author of Task Manager house?",
+      "description": "sfsdaf",
+      "type": "Task",
+      "status": "Backlog",
+      "priority": "High",
+      "listPosition": 3,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1"
+      ]
+    },
+    {
+      "id": "9665",
+      "title": "Angular router not working on Netlify on refresh",
+      "description": "sfsdaf",
+      "type": "Bug",
+      "status": "Done",
+      "priority": "High",
+      "listPosition": 1,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "94502aad-c97f-43e1-a9d1-28cf3e4937a7",
+        "7ac265f9-b9ac-443f-a2b2-795682e579a4"
+      ]
+    },
+    {
+      "id": "9667",
+      "title": "When creating an issue, the assignee list is not working properly on searching",
+      "description": "sfsdaf",
+      "type": "Bug",
+      "status": "Selected",
+      "priority": "High",
+      "listPosition": 1,
+      "createdAt": "2020-09-15T23:41:37.278Z",
+      "updatedAt": "2020-09-15T23:41:37.278Z",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": [
+        "d65047e5-f4cf-4caa-9a38-6073dcbab7d1"
+      ]
+    }
+  ]
+}

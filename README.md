@@ -1,1 +1,22 @@
-# testcase-angular
+# ChatBuilder
+
+This project was generated with [Angular CLI]() version 13.2.0.
+
+## Development server
+
+Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+
+## Node Version
+ Node version  18.16.0
+ npm install 18.6.0
+
+## Git URL
+https://github.com/anuragsn/testcase-angular.git
